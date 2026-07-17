@@ -11,7 +11,7 @@ export const portfolioData: PortfolioData = {
     location: "Mohali, Punjab, India",
     email: "jiyachoudhary.sas@gmail.com",
     phone: "+918360290629",
-    resumeUrl: "https://drive.google.com/file/d/1kNT9mcu0H4R5IBuHOGUQY7z9luYMIFNT/view?usp=drive_link",
+    resumeUrl: "/Jiya_Choudhary_Resume.pdf",
     website: "",
     languages: [
       // { name: 'Indonesian', level: 'Native' },

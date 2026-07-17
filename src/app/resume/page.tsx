@@ -4,7 +4,7 @@ import { redirect } from "next/navigation";
 export default function ResumePage() {
     const resumeUrl = portfolioData.personal.resumeUrl;
 
-    if (resumeUrl && resumeUrl.startsWith("http")) {
+    if (resumeUrl) {
         redirect(resumeUrl);
     }
 
